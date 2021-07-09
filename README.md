@@ -4,4 +4,4 @@
 collection of tips to improve coding
 
 
-- [javascript](javascript/readme.md)
+- [javascript](javascript/README.md)
